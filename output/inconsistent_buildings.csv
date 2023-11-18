@@ -1,0 +1,109 @@
+type,building,recruitment_building,hidden_resources,hidden_resources_not,event,faction
+aor ankonitan archers,missiles_1,1,,,,"acarnania, achaea, acragas, aedui, aetolia, allobroges, anatolians, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, byzantium, cappadocia, carthage, chatti, chersonesus, chios, chrysaoria, cilicians, cimbri, cius, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, histria, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lycia, lysiad, lyttos, maedi, masaesyli, massalia, massylii, mauryan, megalopolis, messene, miletus, nabataea, odrysians, olbia, paionia, paphlagonia, parni, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, saba, saka, scordisci, seleucid, selge, sinope, siraces, sparta, suebi, syracuse, taras, thessaly, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor ankonitan archers,missiles_1,4,,,,greeks
+aor ankonitan hoplites,barracks_1,1,,,,"acarnania, achaea, acragas, aedui, aetolia, allobroges, anatolians, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, byzantium, cappadocia, carthage, chatti, chersonesus, chios, chrysaoria, cilicians, cimbri, cius, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, histria, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lycia, lysiad, lyttos, maedi, masaesyli, massalia, massylii, mauryan, megalopolis, messene, miletus, nabataea, odrysians, olbia, paionia, paphlagonia, parni, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, saba, saka, scordisci, seleucid, selge, sinope, siraces, sparta, suebi, syracuse, taras, thessaly, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor ankonitan hoplites,barracks_1,4,,,,greeks
+aor athamanian peltasts,missiles_2,2,,,,"acarnania, achaea, acragas, aedui, aetolia, allobroges, anatolians, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, byzantium, cappadocia, carthage, chatti, chersonesus, chios, chrysaoria, cilicians, cimbri, cius, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, histria, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lycia, lysiad, lyttos, maedi, masaesyli, massalia, massylii, mauryan, megalopolis, messene, miletus, nabataea, odrysians, olbia, paionia, paphlagonia, parni, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, saba, saka, scordisci, seleucid, selge, sinope, siraces, sparta, suebi, syracuse, taras, thessaly, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor athamanian peltasts,missiles_2,4,,,,greeks
+aor greek hoplites,barracks_1,1,greek,"prienian, olbian, milesian, kyzikan, knossian, issaian, herakleiote, gortynian, elean, akarnanian, emporionite, sicel, rhodian, massaliote, boiotian, athenian, aitolian, achaian, italiote, ankonitan, crete, bosporan, chersonesus, macedonian, bactrian, kyrenaian",,"acarnania, achaea, aedui, aetolia, allobroges, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, cappadocia, carthage, chatti, chersonesus, cilicians, cimbri, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lyttos, maedi, masaesyli, massalia, massylii, mauryan, miletus, nabataea, odrysians, olbia, paionia, paphlagonia, parni, priene, rhodes, roman, saba, saka, scordisci, sinope, siraces, suebi, syracuse, taras, thracians, triballi, trinovantes, tylis, volcae"
+aor greek hoplites,barracks_1,1,greek,"prienian, olbian, milesian, kyzikan, knossian, issaian, herakleiote, gortynian, elean, akarnanian, emporionite, sicel, rhodian, massaliote, boiotian, athenian, aitolian, achaian, italiote, ankonitan, crete, bosporan, chersonesus, macedonian, bactrian, kyrenaian, pergamene",,sparta
+aor greek hoplites,barracks_1,4,greek,"prienian, olbian, milesian, kyzikan, knossian, issaian, herakleiote, gortynian, elean, akarnanian, emporionite, sicel, rhodian, massaliote, boiotian, athenian, aitolian, achaian, italiote, ankonitan, crete, bosporan, chersonesus, macedonian, bactrian, kyrenaian",,"greeks, histria"
+aor greek peltasts,missiles_2,2,greek,"herakleiote, sicel, milesian, aitolian, achaian",,"achaea, acragas, aedui, aetolia, allobroges, antigonid, ardiaei, arevaci, armenia, arverni, asti, atropatene, belgae, bessi, boii, cappadocia, carthage, chatti, cilicians, cimbri, dentheletae, edetani, egypt, emporion, epirus, galatians, getae, insubres, kabyle, kush, lugii, lusitani, maedi, masaesyli, massalia, massylii, mauryan, nabataea, odrysians, paionia, paphlagonia, parni, roman, saba, saka, scordisci, selge, sinope, siraces, suebi, syracuse, taras, thessaly, thracians, triballi, trinovantes, tylis, volcae"
+aor greek peltasts,missiles_2,2,greek,"herakleiote, sicel, milesian, aitolian, achaian, athamanian",,sparta
+aor greek peltasts,missiles_2,4,greek,"herakleiote, sicel, milesian, aitolian, achaian",,greeks
+aor ionian epibatai,port,3,,,,"acarnania, achaea, acragas, aedui, aetolia, allobroges, anatolians, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, byzantium, cappadocia, carthage, chatti, chersonesus, chios, chrysaoria, cilicians, cimbri, cius, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, histria, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lycia, lysiad, lyttos, maedi, masaesyli, massalia, massylii, mauryan, megalopolis, messene, miletus, nabataea, odrysians, olbia, paionia, paphlagonia, parni, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, saba, saka, scordisci, seleucid, selge, sinope, siraces, sparta, suebi, syracuse, taras, thessaly, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor ionian epibatai,port,4,,,,greeks
+aor istrian archers,missiles_3,3,,,,"acarnania, achaea, acragas, aedui, aetolia, allobroges, anatolians, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, byzantium, cappadocia, carthage, chatti, chersonesus, chios, chrysaoria, cilicians, cimbri, cius, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, greeks, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lycia, lysiad, lyttos, maedi, masaesyli, massalia, massylii, mauryan, megalopolis, messene, miletus, nabataea, odrysians, olbia, paionia, paphlagonia, parni, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, saba, saka, scordisci, seleucid, selge, sinope, siraces, sparta, suebi, syracuse, taras, thessaly, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor istrian archers,missiles_3,4,,,,histria
+aor italiote epibatai,port,3,,,,"acarnania, achaea, acragas, aedui, aetolia, allobroges, anatolians, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, byzantium, cappadocia, carthage, chatti, chersonesus, chios, chrysaoria, cilicians, cimbri, cius, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, histria, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lycia, lysiad, lyttos, maedi, masaesyli, massalia, massylii, mauryan, megalopolis, messene, miletus, nabataea, odrysians, olbia, paionia, paphlagonia, parni, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, saba, saka, scordisci, seleucid, selge, sinope, siraces, sparta, suebi, syracuse, thessaly, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor italiote epibatai,port,4,,,,greeks
+aor italiote hoplites,barracks_1,1,,,,"acarnania, achaea, acragas, aedui, aetolia, allobroges, anatolians, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, byzantium, cappadocia, carthage, chatti, chersonesus, chios, chrysaoria, cilicians, cimbri, cius, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, histria, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lycia, lysiad, lyttos, maedi, masaesyli, massalia, massylii, mauryan, megalopolis, messene, miletus, nabataea, odrysians, olbia, paionia, paphlagonia, parni, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, saba, saka, scordisci, seleucid, selge, sinope, siraces, sparta, suebi, syracuse, thessaly, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor italiote hoplites,barracks_1,4,,,,greeks
+aor mariandynian javelinmen,missiles_1,1,,,,"acarnania, achaea, acragas, aedui, aetolia, allobroges, anatolians, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, byzantium, cappadocia, carthage, chatti, chersonesus, chios, chrysaoria, cilicians, cimbri, cius, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, greeks, histria, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lycia, lysiad, lyttos, maedi, masaesyli, massalia, massylii, mauryan, megalopolis, messene, miletus, nabataea, odrysians, olbia, paionia, parni, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, saba, saka, scordisci, seleucid, selge, sinope, siraces, sparta, suebi, syracuse, taras, thessaly, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor mariandynian javelinmen,missiles_1,2,,,,paphlagonia
+aor smyrnaian ephebes,barracks_1,1,,,,"acarnania, achaea, acragas, aedui, aetolia, allobroges, anatolians, antigonid, ardiaei, arevaci, argos, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, bosporan, byzantium, cappadocia, carthage, chatti, chersonesus, chios, chrysaoria, cilicians, cimbri, cius, cyrene, cyzicus, dentheletae, edetani, egypt, elis, emporion, epirus, galatians, getae, gortyn, histria, insubres, issa, kabyle, knossos, kush, kydonia, lugii, lusitani, lycia, lysiad, lyttos, maedi, masaesyli, massalia, massylii, mauryan, megalopolis, messene, miletus, nabataea, odrysians, olbia, paionia, paphlagonia, parni, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, saba, saka, scordisci, seleucid, selge, sinope, siraces, sparta, suebi, syracuse, taras, thessaly, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor smyrnaian ephebes,barracks_1,4,,,,greeks
+aor thureophoroi cavalry,equestrian_2,2,greek,,,"achaea, aedui, aetolia, allobroges, ardiaei, arevaci, armenia, arverni, asti, athens, atropatene, bactria, belgae, bessi, bithynia, boeotia, boii, cappadocia, carthage, chatti, cilicians, cimbri, cyrene, dentheletae, edetani, egypt, galatians, getae, insubres, kabyle, kush, lugii, lusitani, maedi, masaesyli, massylii, mauryan, nabataea, odrysians, paionia, paphlagonia, parni, pergamon, pontus, ptolemaic, rhodes, roman, saba, saka, scordisci, siraces, sparta, suebi, thracians, trapezus, triballi, trinovantes, tylis, volcae"
+aor thureophoroi cavalry,equestrian_2,4,greek,,,histria
+argive epilektoi,barracks_3,3,,,,argos
+argive epilektoi,barracks_3,3,argive,,,achaea
+asian slingers,missiles_1,1,,,,"cilicians, paphlagonia, pontus"
+asian slingers,missiles_2,2,,,,"armenia, atropatene, cappadocia, parni"
+aspidophoroi1,,3,,,,athens
+aspidophoroi1,equestrian_3,3,,,,"achaea, acragas, anatolians, argos, boeotia, elis, greeks, issa, kydonia, megalopolis, messene"
+aspidophoroi2,,3,,,,selge
+aspidophoroi2,equestrian_3,3,,,,"byzantium, chios, cius, epirus, greeks, miletus, priene, rhodes, sinope"
+cretan slingers,missiles_2,2,,,,"gortyn, knossos, kydonia, lyttos"
+cretan slingers,missiles_2,2,crete,,,greeks
+deuteroi,barracks_2,1,,,,taras
+deuteroi,barracks_2,1,deuteroi,,,epirus
+euzonoi,barracks_1,1,,,,"emporion, greeks, issa, sinope, taras, thessaly"
+euzonoi,barracks_1,1,epirote,,,epirus
+euzonoi,barracks_1,1,greek,,,antigonid
+euzonoi,barracks_1,1,massaliote,,,massalia
+euzonoi,barracks_1,1,syracusan,,,syracuse
+greek archers,missiles_1,1,,,,"acarnania, acragas, anatolians, argos, byzantium, chersonesus, chios, chrysaoria, cius, cyzicus, elis, emporion, histria, issa, megalopolis, messene, miletus, pentapolis, pontus, priene, selge, sinope, taras, thessaly, trapezus"
+greek archers,missiles_1,1,,"ankonitan, crete",,greeks
+greek archers,missiles_1,1,greek,olbian,,"achaea, aetolia, antigonid, athens, bactria, boeotia, bosporan, cyrene, epirus, lysiad, massalia, pergamon, ptolemaic, rhodes, seleucid, syracuse"
+greek hoplites,barracks_1,1,,,,"acragas, argos, byzantium, chios, cius, histria, megalopolis, messene, pentapolis, pontus, selge, thessaly, trapezus"
+greek hoplites,barracks_1,1,,"ankonitan, crete, italiote",,greeks
+greek hoplites,barracks_1,1,greek,"prienian, olbian, milesian, kyzikan, knossian, issaian, herakleiote, gortynian, elean, akarnanian, emporionite, sicel, rhodian, massaliote, boiotian, athenian, aitolian, achaian, italiote, ankonitan, crete, bosporan, chersonesus, macedonian, bactrian, kyrenaian, pergamene",,"epirus, lysiad, ptolemaic, seleucid"
+greek hoplites,barracks_2,2,,crete,,anatolians
+greek peltasts,barracks_2,2,,,,"cyzicus, olbia"
+greek peltasts,missiles_2,2,,,,"acarnania, anatolians, argos, bithynia, byzantium, chersonesus, chios, chrysaoria, cius, elis, gortyn, greeks, histria, issa, knossos, kydonia, lycia, lyttos, megalopolis, messene, pentapolis, priene, trapezus"
+greek peltasts,missiles_2,2,greek,"herakleiote, sicel, milesian, aitolian, achaian, athamanian",,"athens, bactria, boeotia, bosporan, cyrene, lysiad, pergamon, ptolemaic, rhodes, seleucid"
+greek slingers,missiles_1,1,,,,"acragas, anatolians, argos, byzantium, chersonesus, chios, chrysaoria, cius, cyzicus, elis, emporion, histria, issa, lycia, megalopolis, messene, miletus, olbia, pentapolis, pontus, priene, sinope, taras, thessaly, trapezus"
+greek slingers,missiles_1,1,,crete,,greeks
+greek slingers,missiles_1,1,greek,"akarnanian, rhodian, aitolian, selgian, achaian",,"achaea, antigonid, athens, bactria, boeotia, bosporan, cyrene, epirus, lysiad, massalia, pergamon, ptolemaic, seleucid, syracuse"
+greek thorakitai,barracks_3,3,,,,"histria, olbia"
+greek thorakitai,equestrian_3,3,,,,"anatolians, greeks"
+iberian heavy swordsmen,barracks_2,2,,,,"arevaci, edetani, lusitani"
+iberian heavy swordsmen,barracks_3,3,,,,carthage
+italiote epibatai,port,3,,,,taras
+italiote epibatai,port,3,italiote,,,greeks
+italiote hoplites,barracks_1,1,,,,taras
+italiote hoplites,barracks_1,1,italiote,,,greeks
+kretan hoplites,barracks_1,1,,,,"kydonia, lyttos"
+kretan hoplites,barracks_1,2,crete,,,greeks
+lithoboloi,siege_engineer_1,3,,,,sparta
+lithoboloi,siege_engineer_2,4,,,,"acarnania, achaea, acragas, aetolia, anatolians, antigonid, argos, athens, bactria, bithynia, boeotia, bosporan, byzantium, cappadocia, carthage, chersonesus, chios, chrysaoria, cilicians, cius, cyrene, cyzicus, egypt, elis, emporion, epirus, gortyn, greeks, histria, issa, knossos, kydonia, lycia, lysiad, lyttos, masaesyli, massalia, massylii, megalopolis, messene, miletus, olbia, paphlagonia, pentapolis, pergamon, pontus, priene, ptolemaic, rhodes, roman, seleucid, selge, sinope, syracuse, taras, thessaly, trapezus"
+macedonian hoplites,barracks_1,1,,,,kabyle
+macedonian hoplites,barracks_1,1,macedonian,"prienian, olbian, milesian, kyzikan, knossian, issaian, herakleiote, gortynian, elean, akarnanian, emporionite, sicel, rhodian, massaliote, boiotian, athenian, aitolian, achaian, italiote, ankonitan, crete, bosporan, chersonesus, bactrian, kyrenaian",,antigonid
+machairaphoroi,barracks_2,2,,,,egypt
+machairaphoroi,barracks_2,2,ptolemaic,,,ptolemaic
+machimoi swordsmen,,1,,ai_cant_recruit,,ptolemaic
+machimoi swordsmen,barracks_3,3,,,,egypt
+megalopolitan chalkaspides,barracks_3,3,,,,megalopolis
+megalopolitan chalkaspides,barracks_3,3,megalopolitan,,,achaea
+neo-cretan archers,missiles_2,3,,,,lysiad
+neo-cretan archers,missiles_3,3,,,,"ptolemaic, seleucid"
+paphlagonian cavalry,equestrian_1,1,,,,paphlagonia
+paphlagonian cavalry,equestrian_1,1,bosporan,,,bosporan
+prodromoi,equestrian_1,1,,,,"acarnania, acragas, anatolians, argos, byzantium, chersonesus, chios, chrysaoria, cius, cyzicus, elis, emporion, gortyn, greeks, histria, issa, knossos, kydonia, lycia, lyttos, megalopolis, messene, miletus, olbia, pentapolis, pontus, priene, selge, sinope, taras, thessaly, trapezus"
+prodromoi,equestrian_1,1,greek,aitolian,,"achaea, antigonid, athens, bactria, boeotia, cyrene, epirus, lysiad, massalia, pergamon, ptolemaic, rhodes, seleucid, syracuse"
+psiloi,missiles_1,1,,,,"acarnania, acragas, aetolia, anatolians, argos, bithynia, byzantium, chersonesus, chios, chrysaoria, cius, cyzicus, elis, emporion, gortyn, greeks, histria, issa, knossos, kydonia, lycia, lyttos, megalopolis, messene, miletus, olbia, pentapolis, pontus, priene, sinope, taras, thessaly, trapezus"
+psiloi,missiles_1,1,greek,,,"achaea, antigonid, athens, bactria, boeotia, bosporan, cyrene, epirus, lysiad, massalia, pergamon, ptolemaic, rhodes, seleucid, syracuse"
+ptolemaic machairaphoroi cavalry,equestrian_2,2,,,,egypt
+ptolemaic machairaphoroi cavalry,equestrian_2,2,ptolemaic,,,ptolemaic
+sicel peltophoroi,missiles_2,2,,,,acragas
+sicel peltophoroi,missiles_2,2,sicel,,,syracuse
+sicel thureophoroi,barracks_2,2,,,,acragas
+sicel thureophoroi,barracks_2,2,sicel,,,syracuse
+thracian noble cavalry,equestrian_3,3,,,,"asti, bessi, dentheletae, kabyle, maedi, paionia, pentapolis, thracians, triballi"
+thracian noble cavalry,equestrian_4,4,,,,odrysians
+thracian peltasts,missiles_2,2,,,,"asti, bessi, bithynia, dentheletae, kabyle, maedi, odrysians, paionia, thracians, triballi"
+thracian peltasts,missiles_3,3,,,,bosporan
+thracian sica cavalry,equestrian_2,2,,,,"asti, bessi, dentheletae, kabyle, maedi, thracians, triballi"
+thracian sica cavalry,equestrian_3,3,,,,odrysians
+thureophoroi,barracks_2,2,,,,"acarnania, anatolians, argos, byzantium, chersonesus, chios, chrysaoria, cius, cyzicus, elis, emporion, greeks, histria, issa, kabyle, knossos, kydonia, lycia, lyttos, megalopolis, messene, miletus, olbia, pentapolis, priene, sinope, taras, thessaly, trapezus"
+thureophoroi,barracks_2,2,athenian,,,athens
+thureophoroi,barracks_2,2,greek,"gortynian, sicel, boiotian, aitolian, bactrian",,"antigonid, cyrene, epirus, lysiad, pergamon, ptolemaic, seleucid"
+thureophoroi,barracks_2,2,massaliote,,,massalia
+thureophoroi,barracks_2,2,rhodian,,,rhodes
+thureophoroi cavalry,equestrian_2,2,,,,"acarnania, acragas, anatolians, argos, byzantium, chersonesus, chios, chrysaoria, cius, cyzicus, elis, emporion, gortyn, greeks, histria, issa, knossos, kydonia, lycia, lyttos, megalopolis, messene, miletus, olbia, pentapolis, priene, selge, sinope, taras, thessaly"
+thureophoroi cavalry,equestrian_2,2,greek,,,"antigonid, bosporan, epirus, lysiad, ptolemaic, seleucid"
+thureophoroi cavalry,equestrian_2,2,massaliote,,,massalia
+thureophoroi cavalry,equestrian_2,2,syracusan,,,syracuse
+towered forest elephants,equestrian_3,3,,,,"masaesyli, massylii"
+towered forest elephants,equestrian_3,3,libyan,,,"massalia, ptolemaic"
+towered forest elephants,equestrian_4,4,,,,"carthage, egypt"

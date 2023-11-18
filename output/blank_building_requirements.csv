@@ -1,0 +1,4 @@
+type,building,hidden_resources,hidden_resources_not,event,not_player,recruitment_building,faction,building_level
+aspidophoroi1,,,,,,3,athens,3
+aspidophoroi2,,,,,,3,selge,3
+machimoi swordsmen,,,ai_cant_recruit,,,1,ptolemaic,1
