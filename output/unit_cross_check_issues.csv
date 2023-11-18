@@ -1,131 +1,131 @@
-in_units,aor_units,merc_units,in_buildings,aor_buildings,merc_buildings
-1,0,0,0,0,0
-1,1,0,0,1,0
-1,1,0,0,1,0
-1,1,0,0,0,0
-1,1,0,0,0,0
-1,1,0,0,1,0
-1,1,1,1,0,0
-1,1,0,1,0,0
-1,1,1,1,0,0
-1,1,0,1,0,0
-1,1,1,1,0,0
-1,1,1,1,0,0
-1,1,1,1,0,0
-1,1,1,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,1,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,0,0,1,0
-1,1,1,1,0,0
-1,1,1,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,0,1,0,0
-1,1,0,0,1,0
-1,1,1,0,1,0
-1,1,1,0,1,0
-1,1,1,0,1,0
-1,1,1,0,1,0
-1,1,1,0,1,0
-0,1,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-0,1,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,1,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
-1,0,0,0,0,0
+type,in_units,aor_units,merc_units,in_buildings,aor_buildings,merc_buildings
+barb peasant slave,1,0,0,0,0,0
+italic velites,1,1,0,0,1,0
+italic hastati,1,1,0,0,1,0
+italic principes,1,1,0,0,0,0
+italic triarii,1,1,0,0,0,0
+italic equites,1,1,0,0,1,0
+towered forest elephants,1,1,1,1,0,0
+caetrati,1,1,0,1,0,0
+iberian heavy swordsmen,1,1,1,1,0,0
+iberian chosen infantry,1,1,0,1,0,0
+iberian heavy cavalry,1,1,1,1,0,0
+bellovacian infantry,1,1,1,1,0,0
+scordiscian infantry,1,1,1,1,0,0
+treverian noble cavalry,1,1,1,1,0,0
+volcaean axemen,1,1,0,1,0,0
+galatian slingers,1,1,0,1,0,0
+galatian skirmishers,1,1,1,1,0,0
+illyrian thureophoroi,1,1,0,1,0,0
+bithynian thureophoroi cavalry,1,1,0,1,0,0
+galato-thracian warband,1,1,0,1,0,0
+egyptian longspearmen,1,1,0,0,1,0
+mysian thureophoroi,1,1,1,1,0,0
+mysian cavalry,1,1,1,1,0,0
+euzonoi,1,1,0,1,0,0
+greek thorakitai,1,1,0,1,0,0
+xystophoroi,1,1,0,1,0,0
+gortynian archers,1,1,0,1,0,0
+knossian archers,1,1,0,1,0,0
+kydonian archers,1,1,0,1,0,0
+lyttian archers,1,1,0,1,0,0
+tomian epilektoi,1,1,0,1,0,0
+etennian hoplites,1,1,0,0,1,0
+isaurian marauders,1,1,1,0,1,0
+lydian akontistai,1,1,1,0,1,0
+lydian hippakontistai,1,1,1,0,1,0
+phrygian javelinmen,1,1,1,0,1,0
+phrygian cavalry,1,1,1,0,1,0
+iberian noble cavalry,0,1,0,0,0,0
+arab general,1,0,0,0,0,0
+kushite heavy cavalry,1,0,0,0,0,0
+horde parni horse archers,1,0,0,0,0,0
+horde parni nobles,1,0,0,0,0,0
+horde parni cataphracts,1,0,0,0,0,0
+dahaean noble cavalry,0,1,0,0,0,0
+horde sarmatian archers,1,0,0,0,0,0
+horde scythian medium cavalry,1,0,0,0,0,0
+horde sarmatian horse archers,1,0,0,0,0,0
+scythian noble archers,1,0,1,0,0,0
+horde scythian noble archers,1,0,0,0,0,0
+horde saka horse archers,1,0,0,0,0,0
+horde roxolanian lancers,1,0,0,0,0,0
+cohors i scythica,1,0,0,0,0,0
+cohors ix parthorum,1,0,0,0,0,0
+cohors ii thracia,1,0,0,0,0,0
+cohors iii aegyptia,1,0,0,0,0,0
+cohors iv hispanorum,1,0,0,0,0,0
+cohors vii dalmatia,1,0,0,0,0,0
+cohors v gallorum,1,0,0,0,0,0
+cohors viii belgae,1,0,0,0,0,0
+cohors i batavorum,1,0,0,0,0,0
+cohors x italia,1,0,0,0,0,0
+roman syrian archer,1,0,0,0,0,0
+roman horse archer,1,0,0,0,0,0
+ala iv hispanorum,1,0,0,0,0,0
+ala i venetia,1,0,0,0,0,0
+ala i sarmatarum,1,0,0,0,0,0
+ala vii illyricum,1,0,0,0,0,0
+ala vi germanica,1,0,0,0,0,0
+ala i gemina,1,0,0,0,0,0
+ala ii thracia,1,0,0,0,0,0
+ala v gallorum,1,0,0,0,0,0
+legio i germanica,1,0,0,0,0,0
+legio i germanica first,1,0,0,0,0,0
+legio ii augusta,1,0,0,0,0,0
+legio ii augusta first,1,0,0,0,0,0
+legio iii gallica,1,0,0,0,0,0
+legio iii gallica first,1,0,0,0,0,0
+legio iii augusta,1,0,0,0,0,0
+legio iii augusta first,1,0,0,0,0,0
+legio v alaudae,1,0,0,0,0,0
+legio v alaudae first,1,0,0,0,0,0
+legio vi ferrata,1,0,0,0,0,0
+legio vi ferrata first,1,0,0,0,0,0
+legio vii cpfidelis,1,0,0,0,0,0
+legio vii cpfidelis first,1,0,0,0,0,0
+legio viii augusta,1,0,0,0,0,0
+legio viii augusta first,1,0,0,0,0,0
+legio ix hispana,1,0,0,0,0,0
+legio ix hispana first,1,0,0,0,0,0
+legio x gemina pia,1,0,0,0,0,0
+legio x gemina pia first,1,0,0,0,0,0
+legio xi cpfidelis,1,0,0,0,0,0
+legio xi cpfidelis first,1,0,0,0,0,0
+legio xiii gemina,1,0,0,0,0,0
+legio xiii gemina first,1,0,0,0,0,0
+legio i minervia,1,0,0,0,0,0
+legio i minervia first,1,0,0,0,0,0
+legio i adiutrix,1,0,0,0,0,0
+legio i adiutrix first,1,0,0,0,0,0
+legio iii cyrenaica,1,0,0,0,0,0
+legio iii cyrenaica first,1,0,0,0,0,0
+legio xxi rapax,1,0,0,0,0,0
+legio xxi rapax first,1,0,0,0,0,0
+legioiv flavia felix,1,0,0,0,0,0
+legioiv flavia felix first,1,0,0,0,0,0
+legio xvi flavia firma,1,0,0,0,0,0
+legio xvi flavia firma first,1,0,0,0,0,0
+legio xv apollinaris,1,0,0,0,0,0
+legio xv apollinaris first,1,0,0,0,0,0
+legio v macedonica,1,0,0,0,0,0
+legio v macedonica first,1,0,0,0,0,0
+legio iv scythica,1,0,0,0,0,0
+legio iv scythica first,1,0,0,0,0,0
+legio x fretensis,1,0,0,0,0,0
+legio x fretensis first,1,0,0,0,0,0
+legio xxii deiotariana,1,0,0,0,0,0
+legio xxii deiotariana first,1,0,0,0,0,0
+legio xii fulminata,1,0,0,0,0,0
+legio xii fulminata first,1,0,0,0,0,0
+legio vi victrix,1,0,0,0,0,0
+legio vi victrix first,1,0,0,0,0,0
+legio xiv gemina martia victrix,1,0,0,0,0,0
+legio xiv gemina martia victrix first,1,0,0,0,0,0
+legio xx valeria victrix,1,0,0,0,0,0
+legio xx valeria victrix first,1,0,0,0,0,0
+legio xxii primigenia,1,0,0,0,0,0
+legio xxii primigenia first,1,0,0,0,0,0
+roman early praetorian,1,0,0,0,0,0
+roman evocatii,1,0,0,0,0,0
+deserter rebel,1,0,0,0,0,0
