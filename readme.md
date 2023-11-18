@@ -11,6 +11,9 @@ It assumes data structures as per https://www.twcenter.net/forums/showthread.php
 ## Setup
 Install the conda environment from environment.yml (see here for instructions: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file), or just read environment.yml and manually install those packages if you're not using conda.
 
+## Running the code
+The main file is RIS_units_process.ipynb (a Jupyter/IPython notebook). Instructions for running a Jupyter notebook are here: https://docs.jupyter.org/en/latest/running.html
+
 ## Inputs
 The code needs the following files to be put into the inputs folder (because these are the files it checks):
 - export_descr_buildings.txt
