@@ -14,6 +14,8 @@ Install the conda environment from environment.yml (see here for instructions: h
 ## Running the code
 The main file is RIS_units_process.ipynb (a Jupyter/IPython notebook). Instructions for running a Jupyter notebook are here: https://docs.jupyter.org/en/latest/running.html
 
+The RIS_units_fixes.ipynb contains semi-automated ways to fix certain types of inconsistency. It should not be run end-to-end (as that may cause duplication in the files) but parts can be run where required.
+
 ## Inputs
 The code needs the following files to be put into the inputs folder (because these are the files it checks):
 - export_descr_buildings.txt
@@ -28,3 +30,6 @@ The code produces the following output csvs:
 4. inconsistent_buildings.csv - this contains any units that have inconsistent requirements across factions. This may be correct (e.g. requiring faction-specific hidden resources, but may also highlight some bugs)
 5. unit_cross_check_issues.csv - this contains a comparison of here base, aor and merc variants of units are inconsistent across the units and buildings file (probably bugs).
 6. aor_unit_diffs.csv - this contains any aor units that have different numeric stats from their base units (probably bugs). 
+7. misfit_units.csv - these are units that seem to have building requirements that don't match their category or class (probably bugs).
+
+It also updates the export_descr_buildings.txt file if you are using RIS_units_fixes.ipynb
