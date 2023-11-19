@@ -1,0 +1,24 @@
+type,category,unit_class,building,recruitment_building,short_desc
+aor sardinian archers,infantry,light,missiles_1,1,Sardinian Archers were accomplished guerilla fighters but proved to be less reliable in close quarters fighting with swords.
+aor illyrian skirmishers,infantry,light,missiles_1,1,"These Illyrians were aggressive and hardy skirmishers, accustomed to operating in rough terrain."
+machimoi swordsmen,infantry,heavy,,1,"Machimoi swordsmen are a heavily armoured unit, acting as mobile shock infantry that can easily outflank enemy forces."
+aor massaliote thorakitai,infantry,heavy,missiles_3,3,"These Massaliote Thorakitai, equipped with Celtic mail and shield, are a flexible infantry unit, excelling in both attack and defence."
+aor sardinian archers,infantry,light,missiles_1,1,Sardinian Archers were accomplished guerilla fighters but proved to be less reliable in close quarters fighting with swords.
+brittonic ambacti,infantry,light,barracks_4,4,This unit needs a short description.
+brittonic bodyguards,infantry,light,barracks_4,4,"The fierce Ambacti warriors were excellent swordsmen, and were feared throughout Europe and the Mediterranean."
+aor illyrian skirmishers,infantry,light,missiles_1,1,"These Illyrians were aggressive and hardy skirmishers, accustomed to operating in rough terrain."
+thracian infantry guard,infantry,light,barracks_4,4,This unit needs a short description.
+trallian infantry,infantry,light,barracks_4,4,"The Trallian Guard are equipped with Macedonian armour, but fight with the fierceness of Thracian warriors!"
+numidian javelinmen,infantry,missile,barracks_1,1,Numidian javelinmen are fast moving skirmishers trained from infancy in the use of the javelin.
+bithynian epibatai,infantry,missile,barracks_3,3,This unit needs a short description.
+euzonoi,infantry,missile,barracks_1,1,These well-trained men use the large Thureos shield as protection while skirmishing or to defend themselves in melee.
+greek peltasts,infantry,missile,barracks_2,2,"Peltasts are a professional, flexible light infantry unit. They are an excellent choice for first engagements with the enemy and able to support the cavalry in flanking manoeuvres."
+achaian peltast,infantry,missile,barracks_2,2,"These Achaians and Arcadians are well-trained Peltasts, who kill their enemy from afar with their javelins."
+spartan euzonoi,infantry,missile,barracks_1,1,"Despite their lack of armour, these professional skirmishers can also pack quite a punch in melee."
+herakleiote horophylakes,infantry,missile,barracks_2,4,This unit needs a short description.
+sogdian armoured spearmen archers,infantry,missile,barracks_3,3,More heavily armed archers who can stand a better chance against light infantry and cavalry.
+arian spearmen archers,infantry,missile,barracks_3,3,Lightly armed archer unit with a spear as a secondary weapon which can be useful against light cavalry.
+aspidophoroi1,cavalry,heavy,,3,The Aspidophoroi are well-armoured cavalry who charge the enemy with their long spears and carry either javelins or kopis swords as secondary weapons.
+aspidophoroi2,cavalry,heavy,,3,The Aspidophoroi are well-armoured cavalry who charge the enemy with their long spears and carry either javelins or kopis swords as secondary weapons.
+aor cappadocian skirmisher cavalry,cavalry,missile,missiles_1,1,Cappadocian light cavalry are javelin-armed mounted skirmishers who can strike quickly and be gone before the enemy reacts.
+aor nubian cavalry,cavalry,missile,barracks_2,2,Nubian cavalry are lightly equipped raiders who are perfect for flanking attacks on an enemy line.
