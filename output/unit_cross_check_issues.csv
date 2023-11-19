@@ -2,7 +2,7 @@ type,in_units,aor_units,merc_units,in_buildings,aor_buildings,merc_buildings
 barb peasant slave,1,0,0,0,0,0
 italic velites,1,1,0,0,1,0
 italic hastati,1,1,0,0,1,0
-italic principes,1,1,0,0,0,0
+italic principes,1,1,0,0,1,0
 italic triarii,1,1,0,0,0,0
 italic equites,1,1,0,0,1,0
 towered forest elephants,1,1,1,1,0,0
